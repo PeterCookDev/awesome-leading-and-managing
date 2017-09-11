@@ -31,13 +31,14 @@
 
 - [Busy to Death](http://barryoreilly.com/2017/05/31/busy-to-death/) - by Barry O'Reilly. Takeaway: "Over-optimizing for executing work is dangerous. Actually, it’s very dangerous indeed as it causes us to get stuck in plan-do-plan-do cycles. We compromise reflection, retrospection, and review of the outcomes of all the output we are creating. We stop building learning loops into our work to plan-do-check-act the results of all this effort. We don’t allow time to study, consider, or understand if the result of all this activity is actually aligned to what we are hoping to achieve. We are frankly too busy to."
 
+- [Daily Planning — Get Ready for the Current Day](https://impactspheres.co/daily-planning-get-ready-for-the-current-day-91ffbd243c26) - by Jurgen Appelo. Takeaway: a five-part exercise to help you prioritize the day's work and break it down into achievable chunks.
+
 - [Data Driven Time Management](http://okdork.com/time-management-tips/) - By
   Noah Kagan at Sumo. Takeaway: Measure your time and then use that data to
   decide how you really want to be spending your time. This does not just mean
   office time!
   
-- [Focus – keynote at AgileByExample,
-  Warsaw](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote) - by
+- [Focus – keynote at AgileByExample, Warsaw](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote) - by
   Henrik Kniberg. Takeaway: Focus on extracting more value from your available
   time. “Busy-ness” is an artificial concept. Build in slack to your schedule to
   achive better focus.
@@ -52,11 +53,12 @@
 
 - [Manage Your Day-to-Day](http://99u.com/book/manage-your-day-to-day-2) - by Seth Godin, Dan Ariely, Gretchen Rubin, Erin Rooney Doland, and other contributors. The book shows you how to stop letting other people run your schedule; find the right recharge/productivity balance; optimize digital communications/social media use, and more.
 
-- [The Management Technique Essential to Google’s
-  Growth](http://blog.idonethis.com/management-technique/) - by Blake Thorne.
-  Takeaways: On the potential benefits of open office hours and how to make
-  them work.
+- [The Management Technique Essential to Google’s Growth](http://blog.idonethis.com/management-technique/) - by Blake Thorne. Takeaway: On the potential benefits of open office hours and how to make them work.
   
+- [My New Calendar System](https://sneakerheadvc.com/my-new-calendar-system-9e0a193ffebc) - by Phin Barnes. Takeaway: Ensure your time spent in meetings aligns with your priorities, and that you're not so busy that you can't be productive. Don't overcommit. And check to see if this describes you: "...I found that I was most frequently canceling or re-scheduling on my strongest and most valuable connections because I believed they’d be most likely to understand."
+
+- [No Time to Be Nice at Work](https://www.nytimes.com/2015/06/21/opinion/sunday/is-your-boss-mean.html) - by Christine Porath. Takeaway: "Rudeness and bad behavior have all grown over the last decades, particularly at work. For nearly 20 years [Porath has] been studying, consulting and collaborating with organizations around the world to learn more about the costs of this incivility. How we treat one another at work matters. Insensitive interactions have a way of whittling away at people’s health, performance and souls."
+
 - [No "Yes." Either "HELL YEAH!" or "No"](https://sivers.org/hellyeah) - by Derek
   Sivers. Takeaways: If you are overcommitted, recalibrate when you say yes.
   Saying "no" more gives you more time to say "HELL YEAH!" for things that are
@@ -79,19 +81,18 @@
   reevaluate your priorites. The three Ps are *P*rivate Time, *P*roduction
   Time, and *P*eople Time.
   
-- [The Top 5 Productivity
-  Mistakes](https://www.iwillteachyoutoberich.com/blog/top-5-productivity-mistakes/) - by Ramit Sethi. Takeaways: Talks about the psychology of being unproductive,
+- [The Top 5 Productivity Mistakes](https://www.iwillteachyoutoberich.com/blog/top-5-productivity-mistakes/) - by Ramit Sethi. Takeaways: Talks about the psychology of being unproductive,
   and how changing the narrative can achive big breakthroughs.
 
 - [“Vacations are for the Weak”](http://sethbannon.com/vacations-are-for-the-weak) - by Seth Bannon. Takeaway: "Preventing burnout is part of your job. Staying well rested is part of your job. Sleep and exercise help, but occasional extended breaks are essential too, and their benefits on creativity, productivity, and happiness are well documented."
 
-- [What You Don't Know About Management - How to Take Back Your
-  Workday](https://drive.google.com/file/d/0B28qaK8Qf80eRThwOE1oLVRjWkx5TGJNWnBtcS1Nb1BQMTI0/view) - by Janet Choi and Walter Chen at iDoneThis. A longer read that starts with
+- [The Value of Flow](https://speakerdeck.com/tastapod/the-value-of-flow) (deck - by Dan North. Takeaway: "Resource efficiency is about keeping people busy," which leads to context-switching and reduces focus. Pull systems more naturally create efficient workflows; limit the work in progress, to enhance focus.
+
+- [What You Don't Know About Management - How to Take Back Your Workday](https://drive.google.com/file/d/0B28qaK8Qf80eRThwOE1oLVRjWkx5TGJNWnBtcS1Nb1BQMTI0/view) - by Janet Choi and Walter Chen at iDoneThis. A longer read that starts with
   self-managing your own success and covers how to manage people more
   effectively, as well as effective meeting tips. 
 
-- [Why Work Doesn't Happen at
-  Work](https://www.youtube.com/watch?v=5XD2kNopsUs) - by Jason Fried @
+- [Why Work Doesn't Happen at Work](https://www.youtube.com/watch?v=5XD2kNopsUs) - by Jason Fried @
   TedXMidwest. Takeaways: Interruptions are toxic, and make workers have to
   restart. Work to reduce syncronous communication in order to free up employees
   to have more uninterrupted productive time.

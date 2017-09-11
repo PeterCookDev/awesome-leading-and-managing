@@ -9,6 +9,9 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [The Best Leaders Are Constant Learners](https://hbr.org/2015/10/the-best-leaders-are-constant-learners) - HBR article by Kenneth Mikkelsen and Harold Jarche. Takeaway: "Leaders that stay on top of society’s changes do so by being receptive and able to learn." 
 
+- [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/) - by Farnam Street. Takeaway: a series of bullet points identifying the differences. Examples: "Amateurs give up at the first sign of trouble and assume they’re failures. Professionals see failure as part of the path to growth and mastery;
+Amateurs don’t have any idea what improves the odds of achieving good outcomes. Professionals do." 
+
 - [Effective Leadership Styles for Scrum Masters](https://www.benlinders.com/2016/leadership-styles-scrum-masters/) - by Ben Linders. Takeaway: This post provides an overview of many effective leadership styles that Scrum masters can learn from and apply when working in agile teams, so that their teams can deliver value. Servant leadership alone is not enough.
 
 - [Etsy Lessons](http://larahogan.me/blog/etsy-lessons/) - by Lara Hogan. Takeaway: a collection of wisdom Hogan (now at Kickstarter) collected over her years at Etsy, about topics ranging from rethinking diversity hiring to how to deal with feeling shaky as a leader.
@@ -22,6 +25,8 @@ This topic comes first, because the following articles offer great frameworks/de
 - [High-Performing Teams Need Flexible Leaders](https://medium.com/@srikardoddi/high-performing-teams-need-flexible-leaders-9243e7ec6e95) - by Srikar Doddi. Takeaway: Offers insights into how to change your style based on the needs of the team. Takeaways: Always be explicit with how you expect each individual in the team to behave and the results you'd like them to achieve, and hold everyone accountable. That starts with you, and the example you set to everyone else. Having a well-articulated vision and expectation will enable flexibility of style and methods to reach a highly performant execution. See also, "[Why the rise of Amazon means the end of Walmart](https://www.forbes.com/sites/georgebradt/2015/07/08/why-the-rise-of-amazon-means-the-end-of-wal-mart/#1d4811962167).")
 
 - [How to Lead a Team](https://drt.fm/simon-sinek) (podcast) - by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
+
+- [In Just 8 Words, Uber's New CEO Gave a Master Class in Leadership](https://www.inc.com/amp/180941.html) - by Jessica Stillman. Takeaway: Uber CEO Dara Khosrowshahi, who took over from Travis Kalanick, seems the reverse of his predecessor by expressing vulnerability. In his sign-off, he wrote to his team: "I have to tell you I am scared." Vulnerability is an underrated leadership skill.
 
 - [The Key To Employee-Empowering Leadership](https://www.forbes.com/sites/forbescoachescouncil/2017/06/14/the-key-to-employee-empowering-leadership/#74f950561267) - by Ed Krow, an HR consultant. Takeaway: Empower people, let go, learn to take calculated risks, create incentives/compensation.  
 
@@ -73,9 +78,11 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [To Be a Great Leader, Rethink Your Default Behaviors](https://medium.com/ideo-stories/to-be-a-great-leader-rethink-your-default-behaviors-c762ffd59450) - by Deirdre Cerminaro. Takeaway: Working with IDEO’s CEO Tim Brown reiterated the values to "act with humility," not pride; "trust the intuition of others," don’t be a skeptic; "encourage half-baked ideas," don’t require them to be polished; "inspire, don’t instruct"; and "model behaviors, don’t dictate them."
 
+- [20 Years Ago, Steve Jobs Demonstrated the Perfect Way to Respond to an Insult](https://www.inc.com/justin-bariso/20-years-ago-steve-jobs-demonstrated-the-perfect-w.html) - by Justin Bariso. Takeaway: Includes video of the 1997 exchange between a man in the audience who insults Jobs, and the latter's calm and thoughtful response.
+
 - [Vulnerability and Leadership](https://www.youtube.com/watch?v=e8YtQDiiT1U) (video) - by Brene Brown, researcher, author and storyteller. Takeaway: In this TED talk, Dr. Brown discusses connection/lack thereof, shame (the fear of disconnection and being unworthy of connection). Connection and being aware of its need results in more effective leadership because one can then reach/inspire/enliven people.
 
-- [What it's Really Like Working with Steve Jobs](http://inventor-labs.com/blog/2011/10/12/what-its-really-like-working-with-steve-jobs.html)" - by Glenn Reid. Takeaway: Reid describes designing products with Jobs as a type of "cauldron"-like investigation in which ideas formed around an iteration and who thought up the idea didn't matter. The process put more focus on the ideas and less on Jobs, specific others in the room, or ego. 
+- [What It's Really Like Working with Steve Jobs](http://inventor-labs.com/blog/2011/10/12/what-its-really-like-working-with-steve-jobs.html)" - by Glenn Reid. Takeaway: Reid describes designing products with Jobs as a type of "cauldron"-like investigation in which ideas formed around an iteration and who thought up the idea didn't matter. The process put more focus on the ideas and less on Jobs, specific others in the room, or ego. 
 
 ### Leadership Styles
 *Folks categorize leaders into N different types, or the job into M different activities.*
@@ -101,6 +108,8 @@ This topic comes first, because the following articles offer great frameworks/de
 - [Why Good Bosses Tune in to Their People](http://www.mckinsey.com/global-themes/leadership/why-good-bosses-tune-in-to-their-people?__s=ns1epkqjs8qj1ggjuafv) - by By Robert I. Sutton. Takeaway: Express confidence even if you don’t feel it, don't be indecisive, give credit to your people, and when something goes wrong in your domain accept blame and learn from it.
 
 - [Why Supercell’s Founder Wants to Be the World’s Least Powerful CEO](https://www.linkedin.com/pulse/why-supercells-founder-wants-worlds-least-powerful-ceo-de-rycker) - by Sonali De Rycker. Takeaway from CEO Ilkka Paananen: "My goal is to be the world’s least powerful CEO. What I mean by this is that the fewer decisions I make, the more the teams are making."
+
+- [Worry Is the Most Useless Emotion](https://m.signalvnoise.com/worry-is-the-most-useless-emotion-a7cf0ec65474) - by Claire Lew. Takeaway: Five things leaders can do to stop worrying, an activity that doesn't necessarily improve or resolve things. "Instead of idling in indecision and mulling over every possible path and course of action, the question 'What’s the most I can do with what I have right now?' forces your hand. You must deal with the cards in front of you. And once you do, you’ll clear a path to move forward within the constraints you have. Now you can focus on what you can control."
 
 - [Your Most Important Skill: Empathy](http://chadfowler.com/2014/01/19/empathy.html) - by Chad Fowler. Takeaway: Includes a long-ish list of compelling reasons why empathy truly is your most important skill as a leader, and several suggestions on how to practice empathy: listen; watch and wonder; know your enemies, and choose the other side. "We all have friends and loved ones that complain to us about how they have been treated by other people. It’s human nature to complain and it’s the duty of a loved one to listen sympathetically. The assumption is that the listener is on the side of the complainer. A supportive friend or loved one almost always is, instinctually. Try practicing (internally) taking the opposing view point. Don’t go with your default reaction immediately. Start on the other side and work your way back."
 

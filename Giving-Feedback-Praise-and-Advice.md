@@ -1,8 +1,12 @@
 ## Giving Feedback, Praise and Advice
 
+- [Be a Good Mentor, Not a Dickhead](https://dev.to/mortoray/be-a-good-mentor-not-a-dickhead) - by edA-qa mort-ora-y. Takeaway: "It's tempting to assign difficulties on the new hire themselves: a limitation of their ability or their drive. Even if it is, who cares? Not helping the person virtually guarantees failure and then we have to start the hiring cycle again -- something which takes a lot of time. Plus, firing somebody can leave an awful feeling, especially if we're not positive about it."
+
 - [Can You “Fix” Colleagues Who Aren’t Self-Aware?](https://www.linkedin.com/pulse/can-you-fix-colleagues-who-arent-self-aware-daniel-goleman) - by Daniel Goleman, the author of *Thinking Fast and Slow*. Takeaway: "Working with someone who has low Emotional Self-Awareness isn’t just an annoyance for co-workers, it impacts everyone’s ability to perform well in their work. Research by Korn Ferry Hay Group and others show that a leader’s high Emotional Self-Awareness contributes to overall performance."
 
 - [Can Your Employees Really Speak Freely?](https://hbr.org/2016/01/can-your-employees-really-speak-freely) - by James R. Detert and Ethan R. Burris. Takeaway: Being open and receptive of feedback leads to higher retention and better performance. Anonymous feedback is counter-productive because it sends the message that one must remain anonymous in the environment; it does not necessarily lead to more authentic outcomes. And "the biggest reason for withholding ideas and concerns wasn’t fear but, rather, the belief that managers wouldn’t do anything about them anyway."
+
+- [Feedback Doesn’t Have to Be Scary](https://chrismurman.com/2017/02/28/feedback-doesnt-have-to-be-scary/) - by Chris Murman at ThoughtWorks. Takeaway: what you can do when you rely upon feedback and reviews from multiple people. Ask for feedback frequently and proactively, in small measures. "Giving your co-workers some specific questions or topics you want to discuss in advance focuses the conversation. It also steers the conversation away from personal feelings. The giver can focus on helping me."
 
 - [Giving Effective Feedback](https://hbr.org/product/giving-effective-feedback-hbr-20-minute-manager-series/13999E-KND-ENG) - by Harvard Business Review. Takeaway: "[T]he basics of delivering feedback that gets results, including: Choosing the right time to talk; Engaging in productive dialogue; Helping both star and struggling performers; Developing a plan for effective follow-up."
 
@@ -29,3 +33,5 @@
 - [Rainbows and Unicorns](http://randsinrepose.com/archives/rainbows-and-unicorns) - by Michael Lopp. Takeaway: advice on giving a compliment—"a selfless, timely, and well-articulated recognition of achievement"—with a breakdown of how compliments work, interwoven with references to video games.
 
 - [7 Tough Lessons I’ve Learned on Giving and Receiving Feedback at Our Startup](https://open.buffer.com/feedback) - by Leo Widrich. Takeaway: Understand why humans need feedback; see it as a kindness; consider giving it to be a skill; encourage employees to give it without permission; give role feedback; aim to grow from feedback. "Feedback is how we scale as a company; it’s how we make sure we keep helping each other."
+
+- [The Ultimate Case Against Using Shame as a Management Tactic](https://qz.com/1039957/the-ultimate-case-against-using-shame-as-a-management-tactic/) - by Lila MacLellan. Takeaway: an explanation of European "just culture," which involves treating errors with training and support instead of punishment for mistakes honestly admitted and made. This relates to psychological safety and giving employees the chance to learn from mistakes.

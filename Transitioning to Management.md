@@ -24,6 +24,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Key Learnings in My First Year as a PM at Amazon](https://www.linkedin.com/pulse/key-learnings-my-first-year-pm-amazon-venkatraman-prabhu) - by Venkatraman Prabhu. Takeaway: Lessons learned after a year at the global retailer. Choose the right manager, always measure the product's impact, keep experimenting, have weekly 1:1's with key stakeholders, and get advice.
 
+- [Lean-Agile Product Management](https://lapm.continuousdelivery.com/) - by Jez Humble. Takeaway: the course website from Humble's class at UC Berkeley, with syllabus and resources that cover the product lifecycle, team-building, and other key topics. Includes lots of links to talks/articles/etc. that you might also find linked to here.
+
 - [Lean Startup](https://docs.google.com/document/d/1Xs9VBBhh68DVCywXN7TRtDcWQQLDJWcLCvUOxnzNHmw/edit) - notes by Joe Goldberg about the book by Eric Ries.
 
 - [LeanStartup.com](http://theleanstartup.com/) - based on the book. Offers an e-newsletter. 
@@ -31,6 +33,8 @@ As a leader of a product development team you might have a PM that you’re work
 - [Little Red Book Of Selling: 12.5 Principles of Sales Greatness](https://docs.google.com/document/d/1WegOfyGsrx7GhUFOnnOMT-cJlsvbwJdZamTyRS8ZWSU/edit) - notes by Joe Goldberg about the book by Jeffrey Gitomer.
 
 - [The MVP is dead. Long live the RAT.](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02) - by Rik Higham. Takeaway: "There is a flaw at the heart of the term Minimum Viable Product: it’s not a product. It’s a way of testing whether you’ve found a problem worth solving. A way to reduce risk and quickly test your biggest assumption. Instead of building an MVP identify your Riskiest Assumption and Test it. Replacing your MVP with a RAT will save you a lot of pain."
+
+- [The Only Metric That Matters — Now With Fancy Slides!](https://news.greylock.com/the-only-metric-that-matters-now-with-fancy-slides-232474cf414c) - by Josh Elman at Greylock Partners. Takeaway: "[T]he only thing founders need to think about is: Are people using your product? Are they using it how you expect (i.e performing the core action)? And, are they performing the core action at the frequency you expect?"
 
 - [Paul Graham’s Startup Advice for the Lazy](https://medium.com/swlh/graham-for-the-lazy-51a170dacc86) - by Stelios Constantinides. All of Paul Graham’s startup advice summarized in one article.
 
@@ -82,6 +86,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The 4-Letter-Word That Makes My Blood Boil](https://medium.com/maker-to-manager/the-4-letter-word-word-that-makes-my-blood-boil-d4771df63a1) - by Marcus Blankenship. Takeaway: Avoid words like “just”, “simply”, and “trivial." They could lead you to overlook or forget how detail-oriented technical work can be.
 
+- [Google’s New Manager Training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/) - by Google. Takeaway: Training materials that Google uses to help transition an individual contributor to a manager, including a manager facilitation training guide and exercises for students. 
+
 - [How to Make the Leap from Engineer to Manager](http://blog.newrelic.com/2014/07/23/measuring-manager-success/) - by Kirby Frugia at New Relic. Takeaway: "The key to making processes work is to make incremental changes, measure them, and then improve them." Also, managerial success and developer success differ in that the former is often achieved through others, more about strategic impact, and happen less frequently.
 
 - [How To Win Friends and Influence People](https://docs.google.com/document/d/1453UrSTkum5KrbX7SwwaUDVljP2uvDiHk6fIXNCxOCc/edit) - by Dale Carnegie; summary by Joe Goldberg. Notes on the legendary book, whose mention might make you wince but we suggest getting past that. :) 
@@ -92,9 +98,13 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Missing Piece of a Manager’s Responsibilities](https://medium.com/@uicynthia/the-missing-piece-of-a-managers-responsibilities-bc64fa2678a1) - by Cynthia Maxwell. Takeaway: "[it's] 'digging deep': owning your successes and knowing that you can overcome whatever challenges come your way."
 
+- [The More Senior Your Job Title, the More You Need to Keep a Journal](https://hbr.org/2017/07/the-more-senior-your-job-title-the-more-you-need-to-keep-a-journal?__s=ns1epkqjs8qj1ggjuafv) - by Dan Ciampa. Takeaway: "The French philosopher Blaise Pascal pointed out that 'All of humanity’s problems come from man’s inability to sit quietly in a room alone.' He didn’t mean sitting quietly in front of a laptop responding to emails. The best thinking comes from structured reflection — and the best way to do that is keeping a personal journal."
+
 - [The Most Important Management Concept You’re Missing](https://getlighthouse.com/blog/management-concept) - by Lighthouse. The article advocates Task Relevant Maturity, described like so: “How often you monitor should not be based on what you believe your subordinate can do in general, but on [their] experience with a specific task and [their] prior performance with it – [their] task relevant maturity…as the subordinate’s work improves over time, you should respond with a corresponding reduction in the intensity of the monitoring.” 
  
 - [The Most Important, Yet Overlooked Management Skill](https://getlighthouse.com/blog/management-skill) - by Lighthouse. Takeaway: Curiosity is the most important trait of a leader. Ask questions.
+
+- [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4) - by Manager Tools. Takeaway: Informative podcasts that focus on key opportunities that a manager can leverage to step up their game. 
  
 - [New Leader's 100-Day Action Plan & First 90 Days](https://docs.google.com/document/d/1w0JPuwaJSmDbrpv9n4FSXmHXS6XuKM-lcvQ-mIKo89A/edit) - by Joe Goldberg (summary). Highly detailed document with TOC. Covers topics ranging from due diligence (before you accept a job) to choosing the right approach for the culture and context.
 
@@ -126,6 +136,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Top 10 Reasons Companies Fail at Promoting from Within](https://getlighthouse.com/blog/promoting-from-within-companies-fail/) - by Lighthouse. Takeaway: "Done well, promoting from within rewards and retains your best people for the long term. It also helps strengthen your culture. However, if you don’t put the effort and attention into making those promoted successful, it can backfire massively. No one likes working for a leader that doesn’t know what they’re doing, and those failing in a new role will feel terrible."
 
+- [https://www.tombartel.de/blog/top-10-reasons-become-a-manager/] (https://www.tombartel.de/blog/top-10-reasons-become-a-manager/) - by Tom Bartels. Takeaway: If you care about your coworkers, have good listening and communications skills, trust your colleagues, have an eye for talent, and demonstrate a few other abilities—and you haven't thought of managing people yet—maybe you should, because otherwise someone without those skills might do it instead.
+
 - [This 90 Day Plan Turns Engineers Into Remarkable Managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/) - by David Loftesness. Takeaway: "A newly-minted technical leader typically has no idea how to manage people". This provides a time-bound plan with checkpoints for opting out and leveling up. If you've already transitioned from IC to manager, you might read this and think, "this is the article I wish I'd had before transitioning."
 
 - [Understanding Company Strategy: New Tech Leader Series](http://katemats.com/understanding-company-strategy-new-tech-leader-series/) - by kate{mats}. Takeaway: "The very first thing you need to do in a leadership role is understand the goals of the company and the way your organization fits into that strategy." Provides the steps to make that happen.
@@ -133,6 +145,10 @@ As a leader of a product development team you might have a PM that you’re work
  - [What Are Common Mistakes That New or Inexperienced Managers Make?](https://www.quora.com/Management/What-are-common-mistakes-that-new-or-inexperienced-managers-make/answer/Ian-McAllister) - by Ian McAllister. Takeaway: Some of them include being slow to deal with performance issues, not investing in recruiting or team development, taking credit for others' work and blaming, and simply not leading.
 
 - [What’s Your Learning Stack?](https://mystudentvoices.com/whats-your-learning-stack-55f8639c3d56) - by Mattan Griffel and Álvaro Sanmartín. Takeaway: Analogous to a tech stack, a learning stack codifies how learning is done in an org.
+
+### The CTO Role
+
+- [Chief Technology Officer Job Description: What Does a CTO Do?](https://buttercms.com/blog/chief-technology-officer-job-description-what-does-a-cto-do) - by Roger Jin. Takeaway: how to put the "chief" in CTO. "A great CTO should be ready to delegate, while also being comfortable enough to work on the frontline, coding alongside their fellow developers. Furthermore, they will be required to be even more flexible if they’re working in a startup."
 
 ### The VP of Engineering Role
 

@@ -12,7 +12,9 @@
 
 - [Creating the Dream Team: Transform Your Engineering Organization to Attract New Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/) - by Andrew Hao. Takeaway: Start with evaluating your current culture's strengths and weaknesses. Be in tune with your org. Make sure you demonstrate that you value employees—whether that is talking up their accomplishments, investing in training, or just being there to talk.
 
-- [Crush the Wall!…of your Departments to Build 100% Agile Company. This Is How We Did It] - by Tomas Laboutka. Takeaway: "Without full alignment and team empowerment, a company will not be able to make good decisions and execute quickly. Some studies point out that for every 1 hour of work done by product teams, 48 minutes is spent waiting for a decision to be made. That means in one 8-hour day, 3.5 hours is dedicated to waiting. This is crazy."
+- [Creating Psychological Safety: Start with Trust](https://medium.com/@Alyss/creating-psychological-safety-part-1-ac9aa733fa9b) by Alyss Noland. Takeaway: Psychological safety is a combination of trust between coworkers and an environment where that trust can be acted upon. Start with building those bridges between peers, providing managerial support, and creating a strategic narrative that uplifts every team's accomplishments.
+
+- [Crush the Wall!…of your Departments to Build 100% Agile Company. This Is How We Did It](https://www.linkedin.com/pulse/crush-wallof-your-departments-build-100-agile-company-tomas-laboutka) - by Tomas Laboutka. Takeaway: "Without full alignment and team empowerment, a company will not be able to make good decisions and execute quickly. Some studies point out that for every 1 hour of work done by product teams, 48 minutes is spent waiting for a decision to be made. That means in one 8-hour day, 3.5 hours is dedicated to waiting. This is crazy."
 
 - [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f) - by Rich Armstrong. Takeway: Create every process around your culture. Just like your devs need specs in order to know what code to write, your company needs processes in order to implement culture. 
 
@@ -64,6 +66,8 @@
 
 - [What Does It Mean to Be a Learning Organization?](https://docs.google.com/document/d/15xrkf9fC2cf9g7joK9ZXA16_Qd77PzxjJRjH-RIJpeQ) - by Joe Goldberg. Takeaway: "You're either building a learning organization or you'll be losing to someone who is."
 
+- [What Google Learned About Creating Effective Teams](https://www.infoq.com/presentations/google-effective-teams-2017) - by Matt Sakaguchi. Takeaway: Sakaguchi talks about some of the practical research Google has done around building effective teams. He addresses not only the research, but the insights of a manager who worked with his own team and others, to instill the findings and principles in the real world, along with key insights from Google's pilot program.
+
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - by Charles Duhhig. Takeway: The best teams are supportive and team members are sensitive to each others' feelings and needs.
 
 - [Why Psychological Safety Matters and What to Do About It](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/) - by Amy Edmondson and Jeff Polzer, Harvard Business School. Takeaway: "Even small acts that seem inconsequential at the time can pave the way for larger contributions that carry more weight. By creating a team climate that encourages people to embrace potentially risky contributions, the team will be rewarded with better decisions, motivated members, and improved performance."
@@ -83,3 +87,13 @@
 - [Spotify](https://docs.google.com/document/d/1rimiqq0hrJaEN_EBG0UyqivxsbvMA-6dlwZgCv5ndyU/edit#)
 - [Yammer](https://eng.yammer.com/#how-section)
 - More at [http://culturecodes.co](http://culturecodes.co)
+
+## Codes of Conduct
+
+- [O.school](https://docs.google.com/document/d/1vmTyjlG9tebNk9ONWcv5MUgoL6ROZgEyVjxtR4WrypE/)
+
+- [A Template for Investor/Founder Sexual Harassment Policy](https://techcrunch.com/2017/07/05/harassment-policy-template/) - by TechCrunch and contributors. Takeaway: a template that covers purpose and context for the policy, as well as the policy itself, forms of prohibited behavior, enforcement, and supplementary resources.
+
+## Discrimination and Harassment
+
+- [Why Your Tiny Startup Needs a Code of Conduct & How to Write One](https://blog.techinclusion.co/why-your-tiny-startup-needs-a-code-of-conduct-how-to-write-one-d9f674363d5b) - by Andrea Barrica. Takeway: "What’s often ignored is that diversity is not only a pipeline or recruiting issue. It’s an issue of making the people who do make it through the pipeline want to stay at your company." Write a code of conduct no matter the size of your company, to create norms that ideally make your workplace safe.

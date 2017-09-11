@@ -30,6 +30,8 @@
     - Weaknesses-Opportunities. Improve weaknesses by taking advantage of opportunities
     - Weaknesses-Threats. Work to eliminate weaknesses to avoid threats
     
+- [Post-Mortem Templates](https://github.com/dastergon/postmortem-templates) - by Pavlos Ratis. A collection of postmortem templates from Google, Microsoft and others.
+
 - [Root Cause Analysis: Practical Tools](https://www.benlinders.com/2011/root-cause-analysis-practical-tools/) - by Ben Linders. Tools for you to use to conduct your own root cause analysis, including a process, a checklist to help you get started and a report with an example.
 
 - [The Root Cause Fallacy](https://www.xaprb.com/blog/2014/07/21/root-cause-fallacy/) - by Baron Schwartz. Takeaway: Asking why repeatedly will always get you to the CEO, eventually; stop looking for a single root cause — instead, identify system of conditions/dysfunctions that jointly caused the problem; change the culture and own failures as opportunities.
@@ -55,6 +57,8 @@
 - [How to Run HUGE Retrospectives Across Dozens of Teams in Multiple Time Zones](http://www.innovationgames.com/2014/06/how-to-run-huge-retrospectives/) - by Luke Hohmann. Takeaway: "[T]raditional approaches to retrospectives – assembling a group people in a room with one or more facilitators – are too costly, don’t scale, take far too long and fail to produce high-impact results. As a consequence, large organizations either skip retrospectives entirely or they relegate retrospectives to individual teams, which tragically limit their effectiveness in identifying and implementing enterprise changes that can profoundly improve performance. Over time, because individual teams are not obtaining material benefits from retrospectives, they stop doing them at all." Using online games can be a less expensive option.
 
 - [How We Do Large Scale Retrospectives](https://labs.spotify.com/2015/11/05/large-scale-retros/) - by Henrik Kniberg. Takeaway: How decentralized retrospectives with tiered granularity helped Spotify hold large and meaningful retros. Breaking down large groups into teams organized around themes is the "scaling trick" here.
+
+- [Retromat](https://plans-for-retrospectives.com/en/?id=31-127-66-29-102) - by Corinna Baldauf and Timon Fiddike. Activities for retrospectives, plus an eBook link.
 
 - [Retrospective Exercises](https://age-of-product.com/retrospective-exercises/) - by Stefan Wolpers. Takeaway: How to use Retromat, which aggregates lots of exercises for retrospectives, to change up your retros to keep them interesting and fresh.
 

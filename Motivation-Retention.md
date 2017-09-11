@@ -14,6 +14,8 @@
 
 - [Habits vs Goals: A Look at the Benefits of a Systematic Approach to Life](https://www.farnamstreetblog.com/2017/06/habits-vs-goals/) - by Farnham Street. Takeaway: "Habits are processes operating in the background that power our lives. Good habits help us reach our goals. Bad ones hinder us. Either way, habits powerfully influence our automatic behavior."
   
+- [How to Foster Talent through a Growth Mindset and Grit](http://blog.bonus.ly/how-to-foster-talent-through-a-growth-mindset-and-grit) - by Jessica Collins. Takeaway: "[L]eaders can leverage growth mindset and grit to better develop talent and drive performance. This article outlines what it takes to build a culture of continuous improvement, among other evidence-based practices."
+
 - [How to Tell the Truth](https://a16z.com/2017/07/27/how-to-tell-the-truth/) - by Ben Horowitz. Takeaway: Do not lie to your people when it comes to telling bad news, but attach meaning to it.  
   
 - [Moving Motivators](https://management30.com/practice/moving-motivators/) - by Jurgen Appelo. A fun exercise you can use with your team to understand which values and aspirations motivate them—status, freedom, power, etc.
@@ -28,11 +30,21 @@
 
 - [12 Ways Leaders Can Help Their Team Overcome Culture Issues](http://switchandshift.com/ways-leaders-overcome-culture-issues) - by Young Entrepreneur Council. Takeaway: Communicate directly and frequently; keep your team focused on strategic goals; set people free; let the team step away from work; openly address issues; reinforce your values; anchor the team to a bigger purpose; form a bubble/shield the team; appreciate people's work; listen; be a role model, and reformulate your values.
 
+- [Vacation Time Can Boost Employee Performance](https://www.employeebenefitadviser.com/news/vacation-time-can-boost-employee-performance) - by Amanda Eisenberg. Takeaway: Research shows that more vacation time off leads to better performance.
+
 - [Why Happiness at Work Is Good for the Bottom Line](http://www.managers.org.uk/insights/news/2017/july/why-happiness-at-work-is-good-for-the-bottom-line) - by Andy Cope. Takeaway: Being an inspiring and positive person can be learned. Very happy employees "are rare but when you find them you discover they are positive energisers who create and support the vitality of others. They have an uplifting and boosting effect that leaves others feeling lively and motivated."
 
 ### Retention
 - [“Cost of Turnover” Calculator](https://docs.google.com/spreadsheets/d/1BikDho6Odqp7uD6_q3050-T5jayx3orSKPM1ZXwUySI/edit#gid=0) - by Lattice HQ. Takeaway: Plug in your company size and turnover rate, along with the costs of hiring and onboarding. The results may surprise you. And that says nothing of the emotional headache and cultural drain felt from losing great people.
 
+- [8 Bad Mistakes That Make Good Employees Leave](http://www.huffingtonpost.com/entry/8-bad-mistakes-that-make-good-employees-leave_us_592f02e5e4b0d80e3a8a3288) - by Dr. Travis Bradberry. Takeaway: You'll lose your best employees by making lots of stupid rules, treating everyone equally (not to be confused to "fairly"), tolerating poor performance, not recognizing accomplishments, not caring about people, not showing the big picture, not helping people cultivate their passions, and not making things fun. 
+
+- [The 4 ‘Perks’ Good Developers Really Want](https://venturebeat.com/2017/08/27/the-4-perks-good-developers-really-want/) - by Mike Melnicki. Takeaway: The best developers "want to have an impact in all aspects of the company: product direction, marketing, human resources, design and even finance." The other three: Allow your devs to build a personal brand; create opportunities for them to demonstrate creativity; and consider the unique needs of your team members, and support them with flexibility.
+
 - [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp-f1d04f4f194b) - by DHH. Takeaway: "There are no negotiated salaries or raises at Basecamp. Everyone in the same role at the same level is paid the same. Equal work, equal pay." Basecamp offers employees salaries in the top 5% of the market (Chicago) and meaningful benefits, and has instituted a new profit growth sharing scheme.
 
 - [10 Surprising Employee Retention Statistics You Need to Know](http://blog.bonus.ly/10-surprising-employee-retention-statistics-you-need-to-know) - by George Dickson, Bonusly. Takeaway: surprising stats and context about retention, from "35% of employees said they'd look for a new job if they do not receive a pay raise in the next year" to "93% of millennials say they left their employer the last time they changed roles."
+
+- [To Keep Employees Loyal, Try Asking What They Want](http://fortune.com/2011/01/27/to-keep-employees-loyal-try-asking-what-they-want/?__s=ns1epkqjs8qj1ggjuafv) - by Anne Fisher. Takeaway: When the article was published in 2011, Aflac CEO Dan Amos worked with a team that was 70% women. His company's approach to reducing turnover, he just asked employees what they wanted. It produced results.
+
+- [Turning Around Employee Turnover](http://www.gallup.com/businessjournal/106912/turning-around-your-turnover-problem.aspx?__s=ns1epkqjs8qj1ggjuafv) - by Jennifer Robison for Gallup. Takeaway: "According to Gallup's research, 9 of the 12 workplace elements consistently predict turnover across business units, regardless of an organization's size. These elements are: having clear expectations, having the materials and equipment to do the job right, having the opportunity to do what you do best every day, the belief that someone at work cares, the belief that someone encourages your development, a sense that your opinions count, the mission or purpose of the company making you feel that your job is important, a belief that your coworkers are committed to quality, and having opportunities to learn and grow at work. If these needs are met, as shown by higher scores on these employee engagement items, turnover is likely to be low."
